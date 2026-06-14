@@ -1,0 +1,16 @@
+1 ¿Qué información muestra cada comando?
+
+ -codigo uname -a, muestra Linux codespaces-dfb91d 6.8.0-1052-azufre #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x 86_64 x86_64 x86_64 GNU/Linux 
+
+-codigo whoami muestra codespace 
+
+2 ¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Conocer los datos del sistema al administrar un servidor sirve para saber cuánta memoria, espacio y potencia tienes disponibles, así evitas que se sature o se detenga.
+ Te ayuda a descubrir rápido qué falla cuando algo no funciona bien, revisando versiones y estado de los componentes.
+ Te permite saber cuándo debes actualizar programas o reparar equipos para que sigan funcionando bien.
+ Ayuda a comprobar que todo esté protegido y sin cambios extraños que pongan en riesgo la información.
+ Permite ver qué tareas están usando más recursos y ajustar el sistema para que vaya más rápido.
+ Sabes si puedes instalar cosas nuevas sin causar problemas o errores.
+ Te avisa si hace falta mejorar o cambiar alguna pieza del equipo antes de que deje de servir.
+ En resumen, es lo necesario para mantener el servidor estable, seguro y funcionando correctamente

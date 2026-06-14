@@ -1,0 +1,5 @@
+Usar contraseñas seguras y únicas
+Activar la autenticación de dos pasos
+Mantener el sistema y aplicaciones actualizados
+Evitar correos, enlaces y archivos sospechosos
+Resguardar información y hacer copias de seguridad
